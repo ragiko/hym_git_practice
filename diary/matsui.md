@@ -1,11 +1,9 @@
-# kyounonikki
+# aiueo
 
-## yattakoto
+-a
+-b
 
-## kannsou
-tuiteikenakatta
-gannbarimasu
-
-nihongouemasen
+nihongogautemasen
+ganbarimasu
 
 
