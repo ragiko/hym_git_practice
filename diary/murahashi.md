@@ -1,1 +1,1 @@
-# 今日の勉強会まじいみふ
+Hayakute_tuiteikenai_orz
