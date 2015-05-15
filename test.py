@@ -11,4 +11,7 @@ def hello_b:
 def hello_c:
     print hello
 
+def hello_d:
+    print hello
+
 hello()
