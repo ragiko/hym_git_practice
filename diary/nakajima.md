@@ -3,9 +3,13 @@ aaaaaaaaaa
 
 #本日のふくしゅー
 git init
+
 git add ファイル
+
 git statu
+
 git commmit -m "コミット時のコメントー"
+
 これでローカルに保存は完了
 
 リモートには
