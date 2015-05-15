@@ -1,0 +1,2 @@
+aaaaaaaaaa
+なかじま参上！
