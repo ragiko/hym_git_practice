@@ -8,6 +8,10 @@ def hello_a:
 def hello_b:
     print hello
 
+def hello_d:
+    print hello
+
+
 
 
 hello()
